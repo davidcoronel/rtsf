@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Ball.js">
+    <Files>
+      <File FileName="Assets\Scripts\AstarAI.js" Line="42" Column="17" />
+      <File FileName="Assets\Scripts\Ball.js" Line="15" Column="63" />
+      <File FileName="Assets\Scripts\World.js" Line="63" Column="88" />
+      <File FileName="Assets\Scripts\NetworkManager.js" Line="53" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

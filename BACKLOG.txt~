@@ -1,0 +1,37 @@
+* Cursor
+	-Sobre el campo
+	-Selección jugadores
+	-Selección multiple
+* ¿Control teclado?	
+* Movimiento
+	-¿Intinerario?
+* Pases
+	-Potencia
+	-Altura
+	-¿Pases corriendo?
+
+* Tiro al arco
+	-Potencia
+	-Altura
+	-¿Comba?
+	-Reset pelota
+* Campo
+	-Laterales/Fondo
+* Inteligencia Artificial
+	- Operaciones basicas
+		.Ir hacia la pelota
+		.Evaluar pases/despejes/tiros
+	- Objetivos
+		.Defender
+		.Atacar
+	- Posiciones
+* Implementar reglas
+	-Gol
+	-Lateral
+	-Saque de arco
+	-¿Offside?
+
+* Animación
+	-Red
+	-Jugadores
+	-Arqueros
